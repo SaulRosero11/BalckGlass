@@ -1,0 +1,12 @@
+Paletas de colores:
+
+#FFFFFF  => blanco
+
+#020401 => Negro
+
+#96959B => Gris
+
+#CCCCCC => Gris Claro
+
+#29282A => Gris Obscuro
+
