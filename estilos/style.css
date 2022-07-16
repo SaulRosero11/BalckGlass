@@ -212,6 +212,10 @@ ul.col3 li {
     .contenedor2{
         display: block;
     }
+    
+    .contenedor2 img{
+        display: none;
+    }
     .carousel-item img{
         height: 300px;
     }
@@ -222,6 +226,9 @@ ul.col3 li {
     }
     .contenedor2{
         display: block;
+    }
+    .contenedor2 img{
+        display: none;
     }
     .carousel-item img{
         height: 300px;
